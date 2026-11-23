@@ -1,0 +1,1 @@
+Trains Logistic Regression, Decision Tree, Random Forest (OOB), XGBoost with validation early stopping, prints probabilities/importances, compares Linear/Ridge/Lasso and runs K-Means k=2..8 with elbow/silhouette plots.

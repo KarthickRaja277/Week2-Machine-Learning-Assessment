@@ -1,0 +1,1 @@
+Prints classification metrics/confusion matrices, explains imbalance, plots three ROC curves, selects a threshold for >=75% recall, tunes RF and XGBoost, evaluates the selected model once on the held-out test set, and compares regression with a mean baseline.
